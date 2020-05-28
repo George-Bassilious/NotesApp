@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">NotesApp</string>
     <string name="my_notes_message">My Notes</string>
-    <string name="add_new_note_buttontext">Add new Note</string>
+    <string name="add_note_button_text">Add New Note</string>
+    <string name="note_body_preview" >this is a place holder </string>
+
+
 </resources>
