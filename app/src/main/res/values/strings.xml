@@ -1,8 +1,24 @@
 <resources>
     <string name="app_name">NotesApp</string>
-    <string name="my_notes_message">My Notes</string>
-    <string name="add_note_button_text">Add New Note</string>
-    <string name="note_body_preview" >this is a place holder </string>
+    <string name="text_mainViewInfo">All Notes</string>
+
+    <string name="note_body_preview">this is a place holder </string>
+
+
+
+    <string name="hint_word">Note…</string>
+    <string name="empty_not_saved">Note not saved because it is empty.</string>
+
+
+    <string name="text_editNoteInfo">Edit Note</string>
+    <string name="text_addNoteInfo">Create new Note</string>
+
+    <string name="text_noteCount">0 notes</string>
+    <string name="buttonText_addNewNote">Add New Note</string>
+
+    <string name="buttonText_delete">Delete</string>
+    <string name="buttonText_save">Save</string>
+    <string name="buttonText_cancel">Cancel</string>
 
 
 </resources>

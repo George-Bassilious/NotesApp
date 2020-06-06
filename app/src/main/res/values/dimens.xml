@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="button_addNewNote_margin">16dp</dimen>
+</resources>
